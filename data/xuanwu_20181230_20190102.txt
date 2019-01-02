@@ -1,0 +1,12 @@
+20181231	Tools	https://github.com/objective-see/ReiKey	用于检测和监控 macOS 上的键盘记录器的项目 - ReiKey 发布:   	github.com	github.com	/objective-see/ReiKey	
+20181231	Challenges	https://twitter.com/i/web/status/1079352657238724608	35C3CTF 的 macOS 浏览器漏洞(渲染引擎 + 沙箱逃逸)挑战题源代码公开:   	twitter.com	twitter.com	/i/web/status/1079352657238724608	
+20181231	Tools	https://github.com/Lopseg/Jspathextractor	Jsdir - 一个从 js 文件中提取隐藏 URL 并保存,为进一步分析提供支持的 Burp Suite 扩展:   	github.com	github.com	/Lopseg/Jspathextractor	
+20181231	Browser	https://media.ccc.de/v/35c3-9579-attacking_chrome_ipc	攻击 Chrome IPC - 从稳定发现漏洞到 Chrome Sandbox 逃逸,来自 35c3:   	ccc.de	media.ccc.de	/v/35c3-9579-attacking_chrome_ipc	
+20181231	Exploit	https://0xrick.github.io/binary-exploitation/bof2/	缓冲区溢出教程实例:   	github.io	0xrick.github.io	/binary-exploitation/bof2/	
+20181231	Processor	https://dendibakh.github.io/blog/2018/12/29/Understanding-IDQ_UOPS_NOT_DELIVERED	解析 IDQ_UOPS_NOT_DELIVERED 性能计数器:  	github.io	dendibakh.github.io	/blog/2018/12/29/Understanding-IDQ_UOPS_NOT_DELIVERED	
+20190101	Tools	https://twitter.com/i/web/status/1079791723889475586	SSRF 漏洞利用常用工具分享:   	twitter.com	twitter.com	/i/web/status/1079791723889475586	
+20190101	Fuzzing	https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/	Fuzzing Like It’s 1989,30年前的 Fuzz 方法依然可以在 Ubuntu 中发现错误 :   	trailofbits.com	blog.trailofbits.com	/2018/12/31/fuzzing-like-its-1989/	
+20190101	Rootkit	https://media.ccc.de/v/35c3-9561-first_sednit_uefi_rootkit_unveiled	Sednit 组织所使用的 UEFI Rootkit 分析,来自 35c3  大会 :   	ccc.de	media.ccc.de	/v/35c3-9561-first_sednit_uefi_rootkit_unveiled	
+20190102	Mitigation	http://struct.github.io/cross_dso_cfi.html	介绍 LLVM 和 Android 中对跨 DSO(动态共享对象)边界调用的 CFI 改进:   	github.io	struct.github.io	/cross_dso_cfi.html	
+20190102	Tools	https://twitter.com/i/web/status/1079726794524315649	SSH 常用攻击工具及资源整合:   	twitter.com	twitter.com	/i/web/status/1079726794524315649	
+20190102	Windows	https://medium.com/yarden-shafir/yes-more-callbacks-the-kernel-extension-mechanism-c7300119a37a	Windows 内核扩展机制研究:   	medium.com	medium.com	/yarden-shafir/yes-more-callbacks-the-kernel-extension-mechanism-c7300119a37a	
